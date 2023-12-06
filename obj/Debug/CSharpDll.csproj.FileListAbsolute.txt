@@ -1,0 +1,82 @@
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\mb_TestCSharpDll.dll.config
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\mb_TestCSharpDll.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\mb_TestCSharpDll.pdb
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.AssemblyReference.cache
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.CoreCompileInputs.cache
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\mb_TestCSharpDll.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\mb_TestCSharpDll.pdb
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\MusicBeePlugin.Form1.resources
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.GenerateResource.cache
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\Google.Protobuf.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\MySql.Data.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Buffers.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Memory.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\ZstdSharp.dll
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\Google.Protobuf.pdb
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\Google.Protobuf.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\MySql.Data.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Buffers.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Memory.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emano_cg6uqqd\Downloads\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.CopyComplete
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\mb_TestCSharpDll.dll.config
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\mb_TestCSharpDll.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\mb_TestCSharpDll.pdb
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\Google.Protobuf.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\MySql.Data.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Buffers.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Memory.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\ZstdSharp.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\Google.Protobuf.pdb
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\Google.Protobuf.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\MySql.Data.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Buffers.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Memory.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.AssemblyReference.cache
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\MusicBeePlugin.Form1.resources
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.GenerateResource.cache
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.CoreCompileInputs.cache
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\CSharpDll.csproj.CopyComplete
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\mb_TestCSharpDll.dll
+C:\Users\emano_cg6uqqd\OneDrive\Documentos\Meus Projetos\C# Source3.1 (2)\obj\Debug\mb_TestCSharpDll.pdb
